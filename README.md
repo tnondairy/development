@@ -1,3 +1,3 @@
 # Development
-Python scripts, bash scripts, ruby scripts... OH MY!
+Python scripts, bash scripts, go scripts... OH MY!
 
